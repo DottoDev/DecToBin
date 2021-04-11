@@ -1,3 +1,0 @@
-/home/s34m/projects/smallPrograms/decimalToBinary/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/s34m/projects/smallPrograms/decimalToBinary/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/s34m/projects/smallPrograms/decimalToBinary/cpp/cmake-build-debug/CMakeFiles/decimalToBinary.dir
